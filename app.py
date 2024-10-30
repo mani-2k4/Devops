@@ -8,7 +8,7 @@ def home():
 
 @app.route("/about")
 def about():
-    return "this is about page"
+    return "this is about page testing "
 
 
 
